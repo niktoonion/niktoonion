@@ -1,6 +1,6 @@
 # Привет, я niktoonion/vladf126/rudemoc/uosio 👾
 
-![Avatar](https://media.tenor.com/NpX1D6Ve6Q8AAAAj/corpse-party-sachiko.gif)
+![Avatar](https://media1.tenor.com/m/Owu71peCBIgAAAAd/murder-drones-cyn.gif)
 
 ### Кто я такой
 
