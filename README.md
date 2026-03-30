@@ -1,16 +1,47 @@
-## Hi there 👋
+# Привет, я niktoonion/vladf126/rudemoc/uosio 👾
 
-<!--
-**niktoonion/niktoonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Avatar](https://media.tenor.com/NpX1D6Ve6Q8AAAAj/corpse-party-sachiko.gif)
 
-Here are some ideas to get you started:
+### Кто я такой
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Обычный парень, который вырос на Undertale, Five Nights at Freddy's и Team Fortress 2.  
+Люблю атмосферные игры, странное аниме и старый интернет.
+
+### Что мне нравится
+
+- **Игры**: Undertale, FNAF, TF2, а также всякие инди-хорроры и необычные RPG
+- **Аниме**: «Ангелы Кровопролития», «Куб Междоусобиц», Neon Genesis Evangelion, Serial Experiments Lain и всё, что оставляет после себя тяжёлые мысли
+- **Эстетика**: тёмные темы, дождь за окном, фиолетовый цвет, determination и немного меланхолии
+- **Творчество**: иногда рисую, делаю сайты и экспериментирую с вебом просто потому что "а почему бы и нет"
+
+### Немного обо мне
+
+Я не очень люблю писать о себе в анкетах, но если коротко:  
+Я довольно закрытый человек, с своеобразным чувством юмора и любовью ко всему странному и атмосферному.  
+Могу часами слушать саундтреки из Undertale или смотреть на дождь.  
+Иногда мне кажется, что я живу в своём маленьком мире между реальностью и пиксельной вселенной.
+
+Спаймейн в душе.
+
+### Чем занимаюсь
+
+- Делаю небольшие веб-проекты для души
+- Рисую иногда (в основном арты и мемесы)
+- Играю в старые и инди-игры
+- Собираю свою маленькую коллекцию странных аниме и игр
+
+---
+
+> "It's raining somewhere else..."
+
+** determination: 99% **
+
+---
+
+Связаться со мной можно через:
+- [YouTube](https://www.youtube.com/@vladf126)
+- [VK](https://vk.com/vladf126)
+- [Steam](https://steamcommunity.com/id/vladf126/)
+- [GameJolt](https://gamejolt.com/@vladf126)
+
+Если хочешь просто поболтать про Undertale, аниме или просто потыкать в дождь — пиши.
