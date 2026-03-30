@@ -38,10 +38,11 @@
 
 ---
 
-Связаться со мной можно через:
-- [YouTube](https://www.youtube.com/@vladf126)
-- [VK](https://vk.com/vladf126)
-- [Steam](https://steamcommunity.com/id/vladf126/)
-- [GameJolt](https://gamejolt.com/@vladf126)
-
-Если хочешь просто поболтать про Undertale, аниме или просто потыкать в дождь — пиши.
+## Ссылки
+- [![Стим](green-steam.gif)](https://steamcommunity.com/id/vladf126/)  
+- [![GitHub](github.gif)](https://github.com/niktoonion)  
+- [![YouTube](y.gif)](https://www.youtube.com/@nikto_onion)  
+- [![Telegram](tg.gif)](https://t.me/vlada_hata)  
+- [![Instagram](inst.gif)](https://www.instagram.com/niktoonion/)  
+- [![X (Twitter)](x.gif)](https://x.com/niktoonion)  
+- [![Game Jolt](gamejolt.gif)](https://gamejolt.com/@vladf126)
