@@ -2,41 +2,33 @@
 
 ![Avatar](https://media1.tenor.com/m/Owu71peCBIgAAAAd/murder-drones-cyn.gif)
 
-### Кто я такой
 
-Обычный парень, который вырос на Undertale, Five Nights at Freddy's и Team Fortress 2.  
-Люблю атмосферные игры, странное аниме и старый интернет.
+<details open>
+  <summary>🇷🇺 Русская версия</summary>
 
-### Что мне нравится
+<p>
 
-- **Игры**: Undertale, FNAF, TF2, а также всякие инди-хорроры и необычные RPG
-- **Аниме**: «Ангелы Кровопролития», «Куб Междоусобиц», Neon Genesis Evangelion, Serial Experiments Lain и всё, что оставляет после себя тяжёлые мысли
-- **Эстетика**: тёмные темы, дождь за окном, фиолетовый цвет, determination и немного меланхолии
-- **Творчество**: иногда рисую, делаю сайты и экспериментирую с вебом просто потому что "а почему бы и нет"
+<strong>Привет юзер!</strong><br><br>
+Я <strong>vladf126</strong>, также известный как <strong>niktoonion</strong>, <strong>rudemoc</strong> и <strong>uosio</strong> — не совсем программист, а скорее человек, для которого программирование — хобби. Люблю делать фан‑штуки и полезные утилиты.<br><br>
+Хз, что ещё сказать ¯|_(ツ)_/¯  
 
-### Немного обо мне
+</p>
 
-Я не очень люблю писать о себе в анкетах, но если коротко:  
-Я довольно закрытый человек, с своеобразным чувством юмора и любовью ко всему странному и атмосферному.  
-Могу часами слушать саундтреки из Undertale или смотреть на дождь.  
-Иногда мне кажется, что я живу в своём маленьком мире между реальностью и пиксельной вселенной.
+</details>
 
-Спаймейн в душе.
+<details>
+  <summary>🇬🇧 English version</summary>
 
-### Чем занимаюсь
+<p>
 
-- Делаю небольшие веб-проекты для души
-- Рисую иногда (в основном арты и мемесы)
-- Играю в старые и инди-игры
-- Собираю свою маленькую коллекцию странных аниме и игр
+**Hello user!**<br><br>
+I’m <strong>vladf126</strong>, also known as <strong>niktoonion</strong>, <strong>rudemoc</strong> and <strong>uosio</strong> — not exactly a programmer, more of a person for whom programming is a hobby. I love making fan‑projects and useful utilities.<br><br>
+No idea what else to say ¯|_(ツ)_/¯  
 
----
+</p>
 
-> "It's raining somewhere else..."
+</details>
 
-** determination: 99% **
-
----
 
 ## Социальные сети
 
