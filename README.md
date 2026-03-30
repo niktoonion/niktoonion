@@ -4,7 +4,7 @@
 
 
 <details open>
-  <summary>ru Русская версия</summary>
+  <summary>🇷🇺 Русская версия</summary>
 
 <p>
 
@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary>eng English version</summary>
+  <summary>🇬🇧 English version</summary>
 
 <p>
 
