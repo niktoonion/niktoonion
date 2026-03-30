@@ -38,11 +38,13 @@
 
 ---
 
-## Ссылки
-- [![Стим](green-steam.gif)](https://steamcommunity.com/id/vladf126/)  
-- [![GitHub](github.gif)](https://github.com/niktoonion)  
-- [![YouTube](y.gif)](https://www.youtube.com/@nikto_onion)  
-- [![Telegram](tg.gif)](https://t.me/vlada_hata)  
-- [![Instagram](inst.gif)](https://www.instagram.com/niktoonion/)  
-- [![X (Twitter)](x.gif)](https://x.com/niktoonion)  
-- [![Game Jolt](gamejolt.gif)](https://gamejolt.com/@vladf126)
+## Социальные ссылки
+
+<!-- Указываем желаемый размер через атрибут width (можно также задать height) -->
+- <a href="https://steamcommunity.com/id/vladf126/"><img src="green-steam.gif" alt="Стим" width="30"></a>  
+- <a href="https://github.com/niktoonion"><img src="github.gif" alt="GitHub" width="30"></a>  
+- <a href="https://www.youtube.com/@nikto_onion"><img src="y.gif" alt="YouTube" width="30"></a>  
+- <a href="https://t.me/vlada_hata"><img src="tg.gif" alt="Telegram" width="30"></a>  
+- <a href="https://www.instagram.com/niktoonion/"><img src="inst.gif" alt="Instagram" width="30"></a>  
+- <a href="https://x.com/niktoonion"><img src="x.gif" alt="X (Twitter)" width="30"></a>  
+- <a href="https://gamejolt.com/@vladf126"><img src="gamejolt.gif" alt="Game Jolt" width="30"></a>
